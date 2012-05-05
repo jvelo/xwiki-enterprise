@@ -64,7 +64,7 @@
     </dependency>
     <dependency>
       <groupId>org.xwiki.platform</groupId>
-      <artifactId>xwiki-platform-wysiwyg-war</artifactId>
+      <artifactId>xwiki-platform-wysiwyg-war-xwiki</artifactId>
       <version>${platform.version}</version>
       <type>war</type>
       <scope>runtime</scope>
